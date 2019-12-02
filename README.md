@@ -14,4 +14,5 @@ On this site I tell about the career of members of Ukrainian cybersport team NaV
 **OleK** - __web-school teacher__
 
 ## About Me
+![](img/logo.jpg)
 >My name is Nazar Vasylchuk. I am 13 years old. I am from Ivano-Frankivsk and I am studiyng in Specialised School №1. I am keen on technologies and I dare to say that I am a little bit geek. I like coding so I create this web-site for this competition. I hope you will like it.
