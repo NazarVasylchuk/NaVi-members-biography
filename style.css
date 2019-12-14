@@ -1,15 +1,12 @@
 nav {
   background:yellow;
 }
-
 nav ul {
   padding-left: 15px;
   padding-right: 10px;
 }
-
 nav ul li {
   list-style: none;
- 
   margin: 5px;
   min-height: 20px;
   border-width:  3px;
@@ -17,134 +14,113 @@ nav ul li {
   width: 100px;
   height: 5px;
 }
-
 nav ul li a {
   text-decoration: none;
-  color: blue;
-
+  color: black;
 }
-
+li a:hover{
+	background: white;
+	border-radius: 3px;
+}
 #ed{
 	color: white;
 	text-align: center;
 	font-style: oblique;
 }
-
 #ed2{
 	color: white;
 	text-align: center;
 	font-style: oblique;
 }
-
 #ed4{
 	color: white;
 	font-style:oblique;
 }
-
 #fl1{
 	color: white;
 	text-align: center;
 	font-style: oblique;
 }
-
 #fl2{
 	color: white;
 	text-align: center;
 	font-style: oblique;
 }
-
 #fl3{
 	color: white;
 	font-style: oblique;
 }
-
 #s2{
 	color: white;
 	text-align: center;
 	font-style: oblique;
 }
-
 #s3{
 	color: white;
 	text-align: center;
 	font-style: oblique;
 }
-
 #s4{
 	color: white;
 	font-style: oblique;
 }
-
 #z1{
 	color: white;
 	text-align: center;
 	font-style: oblique;
 }
-
 #z2{
 	color: white;
 	text-align: center;
 	font-style: oblique;
 }
-
 #z3{
 	color: white;
 	font-style: oblique;
 }
-
 #el1{
 	color: white;
 	text-align: center;
 	font-style: oblique;
 }
-
 #el2{
 	color: white;
 	text-align: center;
 	font-style: oblique;
 }
-
 #el3{
 	color: white;
 	font-style: oblique;
 }
-
 .navi{
 	color: white;
 	text-align: center;
 	font-weight: bold;
 }
-
 .navi1{
 	color: white;
 	text-align: center;
 }
-
 #navi3{
 	color: white;
 	text-align: justify;
 }
-
 #im1{
 	height: 100px;
 }
-
 #a1{
 	color: black;
 }
-
 #paragraph{
 	color:white;
 	text-align: center;
 	margin-top: 110px;
 }
-
 .navbar{
 	display: inline-flex;
 	justify-content: left;
 	width: 100%;
 }
-
 .link{
 	color: black;
 	text-decoration: none;
